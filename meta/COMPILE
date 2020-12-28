@@ -1,0 +1,5 @@
+
+./autogen.sh
+./configure --prefix=/opt/sofia-sip --sysconfdir=/opt/sofia-sip/conf --with-openssl
+
+
